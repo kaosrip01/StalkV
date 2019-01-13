@@ -62,12 +62,12 @@ else
  case $choice in
  1)
  #Install Ministra*
- echo "Installing Ministra 5.5.0"
+ echo "Installing ministra"
  ./lab/ministra
 ;;
 2)
  #Install Stalker
- echo "Installing Ministra 5.4.0"
+ echo "Installing stalker"
 ./lab/stalker
  ;;
 
